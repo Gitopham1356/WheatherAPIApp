@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WheatherAPIApp</string>
+    <string name="city_id">City ID</string>
+    <string name="weather_id">Weather ID</string>
+    <string name="weather_name">Weather Name</string>
+    <string name="city_name_or_city_id">City Name, or City ID</string>
+    <string name="weather_by_id">Weather By ID</string>
+    <string name="weather_by_name">Weather By Name</string>
+    <string name="get_city_id">Get City ID</string>
+</resources>
